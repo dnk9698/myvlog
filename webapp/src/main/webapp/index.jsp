@@ -1,5 +1,5 @@
 <header class="header">
-  <h3> <a href="#" class="logo">Developer</a></h3>
+  <h3> <a href="#" class="logo">DevOps Engineer</a></h3>
   <nav class="nav-items">
     <a href="#">Home</a>
     <a href="#">About</a>
