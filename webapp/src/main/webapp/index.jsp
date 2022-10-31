@@ -34,7 +34,7 @@
       <h2>About Me</h2>
       <p>I am a web developer and I love to create websites. I am a very good developer and I am always looking for new projects. I am a very good developer and I am always looking for new projects.</p>
     </div>
-    <img src="https://resize.indiatvnews.com/en/resize/newbucket/730_-/2021/06/shah-rukh-khan-1-1624602065.jpg" alt="me">
+    <img src="https://tvline.com/wp-content/uploads/2019/01/travis-fimmel-raised-by-wolves.jpg?w=1024" alt="me">
   </div>
 </main>
 <footer class="footer">
