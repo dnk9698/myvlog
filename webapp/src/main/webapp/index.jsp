@@ -34,7 +34,7 @@
       <h2>About Me</h2>
       <p>I am a web developer and I love to create websites. I am a very good developer and I am always looking for new projects. I am a very good developer and I am always looking for new projects.</p>
     </div>
-    <img src="https://tvline.com/wp-content/uploads/2019/01/travis-fimmel-raised-by-wolves.jpg?w=1024" alt="me">
+    <img src="https://www.instagram.com/p/Bq-SnmnhBrIewQKfu9teSxTBCucbYt2n30p63c0/" alt="me">
   </div>
 </main>
 <footer class="footer">
