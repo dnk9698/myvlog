@@ -9,7 +9,7 @@
 <main>
   <div class="intro">
     <h1>D Naveen Kumar</h1>
-    <p>I am a DevOps Engineer and I love to create CI/CD.</p>
+    <p>I am a DevOps/Azure Engineer and I love to create CI/CD.</p>
     <button>Learn More</button>
   </div>
   <div class="achievements">
