@@ -34,7 +34,7 @@
       <h2>About Me</h2>
       <p>I am a web developer and I love to create websites. I am a very good developer and I am always looking for new projects. I am a very good developer and I am always looking for new projects.</p>
     </div>
-    <img src="https://santaclausvillage.info/userassets/uploads/2021/09/arctic-snowhotel-and-glass-igloos-auroras-in-rovaniemi-lapland-finland-photo-all-about-lapland-aspect-ratio-1600-760.jpg" alt="me">
+    <img src="https://santaclausvillage.info/userassets/uploads/2021/09/arctic-snowhotel-and-glass-igloos-auroras-in-rovaniemi-lapland-finland-photo-all-about-lapland-aspect-ratio-1600-760.jpg" alt="northen-light">
   </div>
 </main>
 <footer class="footer">
