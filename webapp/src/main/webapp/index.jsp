@@ -34,7 +34,7 @@
       <h2>About Me</h2>
       <p>I am a web developer and I love to create websites. I am a very good developer and I am always looking for new projects. I am a very good developer and I am always looking for new projects.</p>
     </div>
-    <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/07/Thors-Relationship-With-His-Hammer(s)-feature.jpg" alt="northen-light">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShs_fA_ZS4EllTIAPtzzqG9T8H_KeGLfAHtQ&usqp=CAU" alt="northen-light">
   </div>
 </main>
 <footer class="footer">
